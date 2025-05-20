@@ -53,7 +53,7 @@ def extract_features_from_file(file_path):
         return pd.DataFrame()
 
 # Directory where .set files are stored
-set_folder = "C:/Users/naran/Downloads/set files" 
+set_folder = "PATH TO YOUR DATA FILES" 
 
 # Output CSV path
 output_csv = "eeg_features_all.csv"
